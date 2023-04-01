@@ -1,0 +1,35 @@
+{
+  "name": "Al-Fatiha",
+  "number": 1,
+  "revelation_place": "Mecca",
+  "verses": [
+    {
+      "text": "In the name of Allah, the Most Gracious, the Most Merciful.",
+      "translation": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ"
+    },
+    {
+      "text": "All praise is due to Allah, Lord of the worlds.",
+      "translation": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
+    },
+    {
+      "text": "The Most Gracious, the Most Merciful.",
+      "translation": "الرَّحْمَنِ الرَّحِيمِ"
+    },
+    {
+      "text": "Master of the Day of Judgment.",
+      "translation": "مَالِكِ يَوْمِ الدِّينِ"
+    },
+    {
+      "text": "You alone we worship, and You alone we ask for help.",
+      "translation": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
+    },
+    {
+      "text": "Guide us to the straight path.",
+      "translation": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ"
+    },
+    {
+      "text": "The path of those whom You have favored, not of those who earn Your anger, nor of those who go astray.",
+      "translation": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلاَ الضَّالِّينَ"
+    }
+  ]
+}
